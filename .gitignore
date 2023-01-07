@@ -1,0 +1,7 @@
+src/
+vendor/
+node_modules/
+gulpfile.js
+pachage.json
+pachake-lock.json
+.env
